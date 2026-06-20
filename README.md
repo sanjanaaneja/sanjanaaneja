@@ -2,7 +2,7 @@
 
 I'm a data analyst and engineer who sits at the intersection of technical execution and business decision-making. I've worked across CRM analytics, data pipeline engineering and customer journey analysis, building things that actually get used: dashboards that drive same-day decisions, SQL pipelines that feed executive reporting, and segmentation logic that runs across millions of customers.
 
-What makes my work different is that I care as much about the "so what" as the "how". I don't just build the model or query — I make sure the output is something a stakeholder can act on.
+In addition to that, I am quite enthusiastic about creating AI workflows to address personal and business problems to increase efficiency and automate mundane tasks.
 
 ---
 
@@ -67,6 +67,7 @@ How to better and ethically incorporate AI workflows and agents to build smarter
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![Braze](https://img.shields.io/badge/Braze-FF3B6F?style=for-the-badge&logo=braze&logoColor=white)
+
 
 
 
